@@ -9,8 +9,8 @@ const Main = ({
       <Style.Title>{title}</Style.Title>
       <Style.Descripition>{description}</Style.Descripition>
       <Style.Illustration
-        src="/img/code.svg"
-        alt="Desenvolvedor em de frente para uma tela com código"
+        src='/img/code.svg'
+        alt='Desenvolvedor em de frente para uma tela com código'
       />
     </Style.Wrapper>
   )

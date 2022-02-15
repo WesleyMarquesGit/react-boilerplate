@@ -3,7 +3,7 @@ import styled from 'styled-components'
 export const Wrapper = styled.main`
   display: flex;
   flex-direction: column;
-  background-color: #543d86;
+  background-color: #191a20;
   color: #fff;
   width: 100%;
   height: 100%;
@@ -14,8 +14,9 @@ export const Wrapper = styled.main`
 `
 
 export const Title = styled.h1`
-  font-size: 2.5rem;
+  font-size: 6rem;
   margin-bottom: 2rem;
+  color: #6c63ff;
 `
 
 export const Descripition = styled.h2`
