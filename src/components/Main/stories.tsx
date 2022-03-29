@@ -6,7 +6,8 @@ export default {
   component: Main,
   args: {
     title: 'Title Default',
-    description: 'Desciption Default'
+    description: 'Desciption Default',
+    img: 'img/code.svg'
   }
 } as Meta
 
